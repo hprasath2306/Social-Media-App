@@ -1,5 +1,5 @@
 
-# Project Title
+# Social Media App
 
 This social media app enables users to easily sign up, generate posts, and seamlessly share them within the community. It offers a platform for connecting and expressing thoughts through user-friendly posting features.
 
